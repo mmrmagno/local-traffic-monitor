@@ -38,11 +38,15 @@ To install the Network Monitor, clone this repository and install the required P
 
 ```bash
 git clone https://github.com/username/network-monitor.git
+```
+```bash
 cd network-monitor
+```
+```bash
 pip install -r requirements.txt
-Usage
+```
 To start the Network Monitor, navigate to the project directory and run:
 
-bash
-Copy code
+```bash
 python main.py
+```
