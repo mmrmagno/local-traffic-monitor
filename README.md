@@ -10,6 +10,28 @@ Network Monitor is a desktop application that allows users to monitor their netw
 
 3. **Recording:** Record network activity over time for later analysis.
 
+## Screenshots
+
+Here's what the application looks like in action:
+
+### Overall Traffic Tab
+
+This tab shows the overall network traffic:
+
+![Overall Traffic](./images/overalltraffic.png)
+
+### Process Graph Tab
+
+This tab shows the network usage per process:
+
+![Process Graph](./images/processgraph.png)
+
+### Recording Tab
+
+This tab allows you to record the network usage for later reference:
+
+![Recording](./images/recording.png)
+
 ## Installation
 
 To install the Network Monitor, clone this repository and install the required Python dependencies:
