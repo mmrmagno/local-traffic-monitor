@@ -40,7 +40,7 @@ To install the Network Monitor, clone this repository and install the required P
 git clone https://github.com/mmrmagno/local-traffic-monitor.git
 ```
 ```bash
-cd network-monitor
+cd local-traffic-monitor
 ```
 ```bash
 pip install -r requirements.txt
