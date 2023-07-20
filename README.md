@@ -37,7 +37,7 @@ This tab allows you to record the network usage for later reference:
 To install the Network Monitor, clone this repository and install the required Python dependencies:
 
 ```bash
-git clone https://github.com/username/network-monitor.git
+git clone https://github.com/mmrmagno/local-traffic-monitor.git
 ```
 ```bash
 cd network-monitor
