@@ -43,7 +43,7 @@ git clone https://github.com/mmrmagno/local-traffic-monitor.git
 cd local-traffic-monitor
 ```
 ```bash
-pip install -r requirements.txt
+python requirements.py
 ```
 To start the Network Monitor, navigate to the project directory and run:
 
